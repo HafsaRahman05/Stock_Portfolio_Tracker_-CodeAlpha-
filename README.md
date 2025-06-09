@@ -31,7 +31,7 @@ pip install pandas matplotlib
 ## How to Use
 - Run the script:
 ```bash
-python portfolio_tracker.py
+python main.py
 ```
 - Follow the prompts:
 Enter stock symbols like AAPL, GOOGL, etc.
